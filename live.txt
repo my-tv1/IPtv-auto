@@ -2197,6 +2197,7 @@ J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•2•IPV4『线路2』
 笑傲江湖,http://1.94.31.214:35455/huya/26355790$LR•5•IPV4『线路5』
 洗冤录,http://iptv.jxpan.vip:18888/aio/huya/29465851$LR•IPV4
 倚天屠龙记,http://iptv.jxpan.vip:18888/aio/huya/23734246$LR•IPV4
+神雕侠侣,http://iptv.jxpan.vip:18888/aio/huya/23865171$LR•IPV4
 鉴证实录,http://iptv.jxpan.vip:18888/aio/huya/23903183$LR•IPV4
 创世纪,http://iptv.jxpan.vip:18888/aio/huya/29465852$LR•IPV4
 使徒行者,http://iptv.jxpan.vip:18888/aio/huya/23734256$LR•IPV4
