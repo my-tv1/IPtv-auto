@@ -1,4 +1,4 @@
-2026-03-12 05:29:53,784 - INFO - url: https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u 获取成功，判断为m3u格式
-2026-03-12 05:29:53,785 - INFO - url: https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u 爬取成功✅，包含频道数：168 包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道
-2026-03-12 05:29:53,920 - INFO - url: https://raw.githubusercontent.com/Wirili/IPTV/refs/heads/main/hotel.m3u 获取成功，判断为txt格式
-2026-03-12 05:29:53,928 - INFO - 爬取完成✅，共计频道数：44
+2026-03-12 07:21:45,384 - INFO - url: https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u 获取成功，判断为m3u格式
+2026-03-12 07:21:45,385 - INFO - url: https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u 爬取成功✅，包含频道数：168 包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道
+2026-03-12 07:21:45,513 - INFO - url: https://raw.githubusercontent.com/Wirili/IPTV/refs/heads/main/hotel.m3u 获取成功，判断为txt格式
+2026-03-12 07:21:45,518 - INFO - 爬取完成✅，共计频道数：44
